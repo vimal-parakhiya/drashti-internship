@@ -148,4 +148,126 @@ public static void main(String[] args) {
         
     }
 }
-
+//OUTPUT
+Welcome to the Railways!
+Write book for booking else exit for exit
+book
+The train 17726 is available from Rajkot to Mumbai
+The train 37392 is available from Ahmedabad to Surat
+Please enter the booking details in the format(in space-separated form):
+Source Destination Date(YYYY/MM/DD) Coach Number-of-passengers
+The following is the convention for respective type of coach
+SL-Sleeper
+3A-3 Tier AC
+2A-2 Tier AC
+1A-First Class AC
+Rajkot Surat 2023-04-15 SL 144
+No such trains available for the following source and destination
+Write book for booking else exit for exit
+book
+The train 17726 is available from Rajkot to Mumbai
+The train 37392 is available from Ahmedabad to Surat
+Please enter the booking details in the format(in space-separated form):
+Source Destination Date(YYYY/MM/DD) Coach Number-of-passengers
+The following is the convention for respective type of coach
+SL-Sleeper
+3A-3 Tier AC
+2A-2 Tier AC
+1A-First Class AC
+Rajkot Surat 2023-04-15 SL 144
+No such trains available for the following source and destination
+Write book for booking else exit for exit
+book
+The train 17726 is available from Rajkot to Mumbai
+The train 37392 is available from Ahmedabad to Surat
+Please enter the booking details in the format(in space-separated form):
+Source Destination Date(YYYY/MM/DD) Coach Number-of-passengers
+The following is the convention for respective type of coach
+SL-Sleeper
+3A-3 Tier AC
+2A-2 Tier AC
+1A-First Class AC
+Rajkot Surat 2023-04-15 SL 144
+No such trains available for the following source and destination
+Write book for booking else exit for exit
+book
+The train 17726 is available from Rajkot to Mumbai
+The train 37392 is available from Ahmedabad to Surat
+Please enter the booking details in the format(in space-separated form):
+Source Destination Date(YYYY/MM/DD) Coach Number-of-passengers
+The following is the convention for respective type of coach
+SL-Sleeper
+3A-3 Tier AC
+2A-2 Tier AC
+1A-First Class AC
+Rajkot Mumbai 2023-04-15 SL 144
+10000001 108000
+Write book for booking else exit for exit
+book
+The train 17726 is available from Rajkot to Mumbai
+The train 37392 is available from Ahmedabad to Surat
+Please enter the booking details in the format(in space-separated form):
+Source Destination Date(YYYY/MM/DD) Coach Number-of-passengers
+The following is the convention for respective type of coach
+SL-Sleeper
+3A-3 Tier AC
+2A-2 Tier AC
+1A-First Class AC
+Rajkot Mumbai 2023-04-15 SL 144
+Not enough seats available!Try with a lesser number
+Write book for booking else exit for exit
+book
+The train 17726 is available from Rajkot to Mumbai
+The train 37392 is available from Ahmedabad to Surat
+Please enter the booking details in the format(in space-separated form):
+Source Destination Date(YYYY/MM/DD) Coach Number-of-passengers
+The following is the convention for respective type of coach
+SL-Sleeper
+3A-3 Tier AC
+2A-2 Tier AC
+1A-First Class AC
+Rajkot Surat 2023-04-15 SL 144
+No such trains available for the following source and destination
+Write book for booking else exit for exit
+book
+The train 17726 is available from Rajkot to Mumbai
+The train 37392 is available from Ahmedabad to Surat
+Please enter the booking details in the format(in space-separated form):
+Source Destination Date(YYYY/MM/DD) Coach Number-of-passengers
+The following is the convention for respective type of coach
+SL-Sleeper
+3A-3 Tier AC
+2A-2 Tier AC
+1A-First Class AC
+Rajkot Surat 2023-04-15 SL 144
+No such trains available for the following source and destination
+Write book for booking else exit for exit
+book
+The train 17726 is available from Rajkot to Mumbai
+The train 37392 is available from Ahmedabad to Surat
+Please enter the booking details in the format(in space-separated form):
+Source Destination Date(YYYY/MM/DD) Coach Number-of-passengers
+The following is the convention for respective type of coach
+SL-Sleeper
+3A-3 Tier AC
+2A-2 Tier AC
+1A-First Class AC
+Rajkot Mumbai 2023-04-15 SL 144
+Not enough seats available!Try with a lesser number
+Write book for booking else exit for exit
+book
+The train 17726 is available from Rajkot to Mumbai
+The train 37392 is available from Ahmedabad to Surat
+Please enter the booking details in the format(in space-separated form):
+Source Destination Date(YYYY/MM/DD) Coach Number-of-passengers
+The following is the convention for respective type of coach
+SL-Sleeper
+3A-3 Tier AC
+2A-2 Tier AC
+1A-First Class AC
+Rajkot Mumbai 2023-04-15 SL 145
+Not enough seats available!Try with a lesser number
+Write book for booking else exit for exit
+exit
+Thank You for choosing Indian Railways
+We hope to serve you again some day
