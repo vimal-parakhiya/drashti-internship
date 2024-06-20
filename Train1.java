@@ -10,7 +10,7 @@ String trainno;
   int[] dist;
   String[] coaches;
   int[] availseats;
-  Map<LocalDate,int[]>trackInd=new HashMap<>();
+  Map<LocalDate,int[]>trackInd=new HashMap<>();//to keep a track of taken and empty seats within each coach
 Map<LocalDate,int[]>seatMatrix=new HashMap<>();//to keep a seatmatrix of SL 1A 2A 3A
 Map<LocalDate,int[]>seat=new HashMap<>();//to keep the track of source and destination of the user of a train with multiple stops
 Map<Integer,String[]>bookedtkt=new HashMap<>();//to keep a track of all booking details for later printing
@@ -169,7 +169,7 @@ void manage(LocalDate date)
             }
             if (coa.charAt(0)== 'S')
             {
-                System.out.println(seatMatrix.get(date)[0]-=num);
+                seatMatrix.get(date)[0]-=num);
                 this.fare=Math.abs(this.dist[srcind]-this.dist[destind])*1*num;
                 System.out.println(ticknum+" "+this.fare);
                 return true;
