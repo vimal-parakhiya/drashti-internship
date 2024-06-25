@@ -3,7 +3,11 @@ import java.util.*;
 
 public class Tark1 {
     public static void main(String[] args) {
-      
+      Train t=new Train();
+      City c=new City();
+      CoachType ct=new CoachType(1400);//error here
+      Coach c3=new Coach();
+      Seat s=new Seat();
         
     }
 }
